@@ -1,15 +1,17 @@
 # Radios de Portugal
+
 ![radios_pt.png](radios_pt.png)
 
-## About 
+Estações de Rádio de Portugal
 
-Radios de Portugal
+## About
+
+Lista de rádios: https://www.radios-online.pt
 
 ## Examples 
 
 * "play RFM"
 * "play radio fado de coimbra"
-
 
 ## Credits 
 - JarbasAl
