@@ -4,161 +4,161 @@
         "image": "https://static.mytuner.mobi/media/radios-150px/8mByXHnRWv.png",
         "url": "https://www.radios-online.pt/rfm",
         "stream": "https://27863.live.streamtheworld.com/RFMAAC_SC",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-comercial": {
         "name": "Rádio Comercial",
         "image": "https://static.mytuner.mobi/media/radios-150px/drkZNBUn6W.png",
         "url": "https://www.radios-online.pt/radio-comercial",
         "stream": "https://stream-icy.bauermedia.pt/comercial.mp3",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/rdp-antena-1": {
         "name": "Antena 1",
         "image": "https://static.mytuner.mobi/media/radios-150px/DRgwWBt7FT.png",
         "url": "https://www.radios-online.pt/rdp-antena-1",
         "stream": "https://radiocast.rtp.pt/antena180a.mp3",
-        "status": "UNVERIFIED"
+        "status": 400
     },
     "https://www.radios-online.pt/m80": {
         "name": "M80",
         "image": "https://static.mytuner.mobi/media/radios-150px/094/radio-m80.ed57fb75.png",
         "url": "http://e.radios-online.pt/embed/m80-396094",
         "stream": "http://stream-icy.bauermedia.pt/m80.mp3",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/cidade": {
         "name": "Cidade",
         "image": "https://static.mytuner.mobi/media/radios-150px/7wm7hWrx29.jpg",
         "url": "https://www.radios-online.pt/cidade",
         "stream": "https://bauermedia.pt/radiostream.aspx?radio=15&type=MP3",
-        "status": "UNVERIFIED"
+        "status": 302
     },
     "https://www.radios-online.pt/tsf-radio-noticias": {
         "name": "TSF Rádio Notícias",
         "image": "https://static.mytuner.mobi/media/radios-150px/298/radio-tsf.254f61bb.png",
         "url": "https://www.radios-online.pt/tsf-radio-noticias",
         "stream": "https://stream-icy.bauermedia.pt/cidade.mp3?source=bauerptWebplayer&aw_0_1st.playerId=bauerptWebplayer",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-observador": {
         "name": "Rádio Observador",
         "image": "https://static.mytuner.mobi/media/radios-150px/8qphgfpnanvj.png",
         "url": "https://www.radios-online.pt/radio-observador",
         "stream": "https://25483.live.streamtheworld.com/OBSERVADORAAC_SC?dist=external",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-renascenca": {
         "name": "Rádio Renascença",
         "image": "https://static.mytuner.mobi/media/radios-150px/a52CYvfFmS.png",
         "url": "https://www.radios-online.pt/radio-renascenca",
         "stream": "https://25643.live.streamtheworld.com/RADIO_RENASCENCAAAC_SC?dist=triton-widget&pname=tdwidgets",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/rfm-oceano-pacifico-online": {
         "name": "RFM - Oceano Pacífico Online",
         "image": "https://static.mytuner.mobi/media/radios-150px/c4XS6cBFdq.png",
         "url": "https://www.radios-online.pt/rfm-oceano-pacifico-online",
         "stream": "https://25533.live.streamtheworld.com/OCEANPACIFICAAC_SC?dist=triton-widget&pname=tdwidgets",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/mega-hits": {
         "name": "Mega Hits",
         "image": "https://static.mytuner.mobi/media/radios-150px/qSNmsHuvSv.png",
         "url": "https://www.radios-online.pt/mega-hits",
         "stream": "https://25493.live.streamtheworld.com/MEGA_HITSAAC_SC",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/orbital-fm": {
         "name": "Orbital FM",
         "image": "https://static.mytuner.mobi/media/radios-150px/c5pHRhK5GP.jpg",
         "url": "http://e.radios-online.pt/embed/orbital-fm-414380",
         "stream": "http://centova.radios.pt:8401/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/rdp-antena-3": {
         "name": "Antena 3",
         "image": "https://static.mytuner.mobi/media/radios-150px/P7pqS4bW8Z.png",
         "url": "http://e.radios-online.pt/embed/rdp-antena-3-396105",
         "stream": "http://radiocast.rtp.pt/antena380a.mp3",
-        "status": "UNVERIFIED"
+        "status": 400
     },
     "https://www.radios-online.pt/smooth-fm": {
         "name": "Smooth FM",
         "image": "https://static.mytuner.mobi/media/radios-150px/033/smooth-fm.aec84e80.png",
         "url": "https://www.radios-online.pt/smooth-fm",
         "stream": "https://stream-icy.bauermedia.pt/smooth.mp3",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-nova-era": {
         "name": "Rádio Nova Era",
         "image": "https://static.mytuner.mobi/media/radios-150px/LqBRhemRSn.png",
         "url": "http://e.radios-online.pt/embed/radio-nova-era-414435",
         "stream": "http://centova.radios.pt:9478/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/rfm-eu-amo-os-80-online": {
         "name": "RFM - 80's",
         "image": "https://static.mytuner.mobi/media/radios-150px/kWvGUT2n43.png",
         "url": "https://www.radios-online.pt/rfm-eu-amo-os-80-online",
         "stream": "https://27793.live.streamtheworld.com/GR80SRFMAAC_SC",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/m80-ballads": {
         "name": "M80 - Ballads",
         "image": "https://static.mytuner.mobi/media/radios-150px/645/m80-ballads.749fe9b5.png",
         "url": "https://www.radios-online.pt/m80-ballads",
         "stream": "https://bauermedia.pt/radiostream.aspx?radio=47&type=AAC",
-        "status": "UNVERIFIED"
+        "status": 302
     },
     "https://www.radios-online.pt/m80-rock": {
         "name": "M80 - Rock",
         "image": "https://static.mytuner.mobi/media/radios-150px/644/m80-rock.9a70e75b.png",
         "url": "https://www.radios-online.pt/m80-rock",
         "stream": "https://stream-icy.bauermedia.pt/m80ballads.aac?source=bauerptWebplayer&aw_0_1st.playerId=bauerptWebplayer",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-marginal": {
         "name": "Rádio Marginal",
         "image": "https://static.mytuner.mobi/media/radios-150px/hLdfPxTAXc.png",
         "url": "http://e.radios-online.pt/embed/radio-marginal-414448",
         "stream": "http://centova.radios.pt:8499/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/m80-portugal": {
         "name": "M80 - Portugal",
         "image": "https://static.mytuner.mobi/media/radios-150px/649/m80-portugal.15ff5658.png",
         "url": "https://www.radios-online.pt/m80-portugal",
         "stream": "https://stream-icy.bauermedia.pt/m80nacional.aac",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-no-ar": {
         "name": "Rádio No Ar",
         "image": "https://static.mytuner.mobi/media/radios-150px/6KpnJ7ZWTD.png",
         "url": "https://www.radios-online.pt/radio-no-ar",
         "stream": "https://radios.justweb.pt/8034/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/rfm-dancefloor": {
         "name": "RFM - Dancefloor",
         "image": "https://static.mytuner.mobi/media/radios-150px/ggsggrtqba2b.png",
         "url": "https://www.radios-online.pt/rfm-dancefloor",
         "stream": "https://22533.live.streamtheworld.com/DANCEONTHEFLOORAAC_SC",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/m80-80s": {
         "name": "M80 - 80's",
         "image": "https://static.mytuner.mobi/media/radios-150px/640/m80-80s.9e5e6915.png",
         "url": "https://www.radios-online.pt/m80-80s",
         "stream": "https://bauermedia.pt/radiostream.aspx?radio=35&type=AAC",
-        "status": "UNVERIFIED"
+        "status": 302
     },
     "https://www.radios-online.pt/rdp-antena-2": {
         "name": "Antena 2",
         "image": "https://static.mytuner.mobi/media/radios-150px/D7uHLN3Sc2.png",
         "url": "https://www.radios-online.pt/rdp-antena-2",
         "stream": "https://stream-icy.bauermedia.pt/m8080.aac?source=bauerptWebplayer&aw_0_1st.playerId=bauerptWebplayer",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-amalia": {
         "name": "Rádio Amália",
@@ -172,7 +172,7 @@
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/rfm-on-the-rock",
         "stream": "https://27793.live.streamtheworld.com/RFMONTHEROCKAAC_SC",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-oxigenio": {
         "name": "Rádio Oxigénio",
@@ -200,56 +200,56 @@
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/1054-cascais",
         "stream": "https://play.radioregional.pt:8220/stream/2/",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/smooth-fm-bossa-nova": {
         "name": "Smooth FM Bossa Nova",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/smooth-fm-bossa-nova",
         "stream": "https://stream-icy.bauermedia.pt/smobossa.aac",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-capsao-grande-lisboa": {
         "name": "Radio Capsao Grande Lisboa",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "http://e.radios-online.pt/embed/radio-capsao-grande-lisboa-474218",
         "stream": "http://capsaolisboa.ice.infomaniak.ch/capsaolisboa-128.mp3",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-toca-a-dancar": {
         "name": "Rádio Toca a Dançar",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-toca-a-dancar",
         "stream": "https://sp0.redeaudio.com/9974/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/m80-dance": {
         "name": "M80 - Dance",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/m80-dance",
         "stream": "https://stream-icy.bauermedia.pt/m80dance.aac",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/rdp-africa": {
         "name": "RDP África",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/rdp-africa",
         "stream": "https://radioip.rtp.pt/liveradio/rdpafrica80a/playlist.m3u8",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-comercial-rock": {
         "name": "Rádio Comercial Rock",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-comercial-rock",
         "stream": "https://stream-icy.bauermedia.pt/rcrock.aac",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-comercial-dance": {
         "name": "Rádio Comercial Dance",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-comercial-dance",
         "stream": "https://stream-icy.bauermedia.pt/rcdance.aac",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/nove3cinco": {
         "name": "Nove3cinco",
@@ -263,63 +263,63 @@
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/golo-fm",
         "stream": "https://sp0.redeaudio.com/8154/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/m80-90s": {
         "name": "M80 - 90's",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/m80-90s",
         "stream": "https://stream-icy.bauermedia.pt/m8090.aac",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-viva-portugal": {
         "name": "Rádio Viva Portugal",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-viva-portugal",
         "stream": "https://sp0.redeaudio.com/9920/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-amor-portugal": {
         "name": "Rádio Amor Portugal",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "http://e.radios-online.pt/embed/radio-amor-portugal-397868",
         "stream": "http://stream.radioamorportugal.com:8000/rap.mp3",
-        "status": "UNVERIFIED"
+        "status": 400
     },
     "https://www.radios-online.pt/radio-comercial-portugal": {
         "name": "Rádio Comercial Portugal",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-comercial-portugal",
         "stream": "https://stream-icy.bauermedia.pt/rctuga.aac",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-nova": {
         "name": "Rádio Nova",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "http://e.radios-online.pt/embed/radio-nova-414466",
         "stream": "http://centova.radios.pt:9528/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/house-music-radio": {
         "name": "House Music Radio",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/house-music-radio",
         "stream": "https://stream.zeno.fm/ubrbwq17qy8uv",
-        "status": "UNVERIFIED"
+        "status": 302
     },
     "https://www.radios-online.pt/the-vibe-dancefloor-radio": {
         "name": "The VIBE - Dancefloor Radio",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "http://e.radios-online.pt/embed/the-vibe-dancefloor-radio-444186",
         "stream": "http://109.71.41.6:8046/stream",
-        "status": "UNVERIFIED"
+        "status": 400
     },
     "https://www.radios-online.pt/radio-festival": {
         "name": "Rádio Festival",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "http://e.radios-online.pt/embed/radio-festival-414461",
         "stream": "http://centova.radio.com.pt:9520/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/sbsr-fm-radio-super-bock-super-rock": {
         "name": "SBSR FM - Rádio Super Bock Super Rock",
@@ -333,231 +333,231 @@
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "http://e.radios-online.pt/embed/hiper-fm-410331",
         "stream": "http://live.noite.pt:8158/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-100-dance-djs": {
         "name": "100% DANCE",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-100-dance-djs",
         "stream": "https://play.radioregional.pt/stream/10/",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-santiago": {
         "name": "Radio Santiago",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "http://e.radios-online.pt/embed/radio-santiago-414408",
         "stream": "http://eu6.fastcast4u.com:5002/stream",
-        "status": "UNVERIFIED"
+        "status": 400
     },
     "https://www.radios-online.pt/radio-100-portuguesa": {
         "name": "100% PORTUGAL",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-100-portuguesa",
         "stream": "https://play.radioregional.pt/stream/6/",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/cidade-hip-hop": {
         "name": "Cidade Hip-Hop",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/cidade-hip-hop",
         "stream": "https://stream-hls.bauermedia.pt/cidhiphop.aac/playlist.m3u8?downloadSessionID=0&listeningSessionID=6387689763485ead_17949532_EVqQ6Epb__0000000tpGU&source=bauerptWebplayer",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/cidade-latina": {
         "name": "Cidade Latina",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/cidade-latina",
         "stream": "https://stream-hls.bauermedia.pt/cidlatina.aac/playlist.m3u8",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/m80-pop": {
         "name": "M80 - Pop",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/m80-pop",
         "stream": "https://stream-icy.bauermedia.pt/m80pop.aac",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/rdp-madeira-antena-3": {
         "name": "RDP Madeira - Antena 3",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/rdp-madeira-antena-3",
         "stream": "https://radioip.rtp.pt/liveradio/antena3madeira80a/playlist.m3u8",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/80rock-radio": {
         "name": "80Rock Rádio",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "http://e.radios-online.pt/embed/80rock-radio-456653",
         "stream": "http://rs2.ptservidor.com:8003/stream",
-        "status": "UNVERIFIED"
+        "status": 400
     },
     "https://www.radios-online.pt/rdp-antena-1-fado": {
         "name": "Antena 1 Fado",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/rdp-antena-1-fado",
         "stream": "https://radioip.rtp.pt/liveradio/antena1fado80a/playlist.m3u8",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-comercial-2000s": {
         "name": "Rádio Comercial 2000s",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-comercial-2000s",
         "stream": "https://stream-icy.bauermedia.pt/rcbest2000.aac",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/m80-70s": {
         "name": "M80 - 70's",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/m80-70s",
         "stream": "https://stream-icy.bauermedia.pt/m8070.aac",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-100-love": {
         "name": "100% LOVE SONGS",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-100-love",
         "stream": "https://play.radioregional.pt/stream/9/",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-ritmos": {
         "name": "Rádio Ritmos",
         "image": "https://static.mytuner.mobi/media/radios-150px/2xPT9kEV9M.png",
         "url": "http://e.radios-online.pt/embed/radio-ritmos-400482",
         "stream": "http://cast2.hoost.com.br:8233/stream",
-        "status": "UNVERIFIED"
+        "status": 400
     },
     "https://www.radios-online.pt/rdp-madeira-antena-1": {
         "name": "RDP Madeira - Antena 1",
         "image": "https://static.mytuner.mobi/media/radios-150px/dw46DQCX3G.png",
         "url": "https://www.radios-online.pt/rdp-madeira-antena-1",
         "stream": "https://radioip.rtp.pt/liveradio/antena1madeira80a/playlist.m3u8",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-comercial-soft": {
         "name": "Rádio Comercial 90s",
         "image": "https://static.mytuner.mobi/media/radios-150px/p8nfd2czpgvm.png",
         "url": "https://www.radios-online.pt/radio-comercial-soft",
         "stream": "https://stream-icy.bauermedia.pt/rcbest90.aac",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/super-fm-1048": {
         "name": "Super FM 104.8",
         "image": "https://static.mytuner.mobi/media/radios-150px/je4zExtSRK.png",
         "url": "https://www.radios-online.pt/super-fm-1048",
         "stream": "https://play.radioregional.pt:8210/stream/2/",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-onda-viva": {
         "name": "Rádio Onda Viva",
         "image": "https://static.mytuner.mobi/media/radios-150px/A76q6cfBq9.png",
         "url": "http://e.radios-online.pt/embed/radio-onda-viva-414465",
         "stream": "http://centova.radios.pt:9524/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-comercial-made-in-brasil": {
         "name": "Rádio Comercial Made in Brasil",
         "image": "https://static.mytuner.mobi/media/radios-150px/eugfhgsvu24n.png",
         "url": "https://www.radios-online.pt/radio-comercial-made-in-brasil",
         "stream": "https://stream-icy.bauermedia.pt/rcbrasil.aac",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/top80-radio": {
         "name": "Top80 Rádio",
         "image": "https://static.mytuner.mobi/media/radios-150px/320/top80-radio.687e3cf3.jpg",
         "url": "http://e.radios-online.pt/embed/top80-radio-395320",
         "stream": "http://live.top80.fm:8086/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/kiss-fm": {
         "name": "Kiss FM",
         "image": "https://static.mytuner.mobi/media/radios-150px/403/kiss-fm-portugal.21b12760.png",
         "url": "https://www.radios-online.pt/kiss-fm",
         "stream": "https://nl.digitalrm.pt:8024/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/noite-fm": {
         "name": "Noite FM",
         "image": "https://static.mytuner.mobi/media/radios-150px/618/noite-fm.0ac20b6b.png",
         "url": "http://e.radios-online.pt/embed/noite-fm-411618",
         "stream": "http://live.noite.pt:8080/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/comercial-santos-populares": {
         "name": "Comercial Santos Populares",
         "image": "https://static.mytuner.mobi/media/radios-150px/evjstdhschzs.png",
         "url": "https://www.radios-online.pt/comercial-santos-populares",
         "stream": "https://stream-icy.bauermedia.pt/rcsantos.aac",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/m80-indie": {
         "name": "M80 - Indie",
         "image": "https://static.mytuner.mobi/media/radios-150px/648/m80-indie.8e469e7f.png",
         "url": "https://www.radios-online.pt/m80-indie",
         "stream": "https://stream-icy.bauermedia.pt/m80indie.aac",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/rdp-acores-antena-1": {
         "name": "RDP Açores - Antena 1",
         "image": "https://static.mytuner.mobi/media/radios-150px/m5U2rUcvJE.png",
         "url": "https://www.radios-online.pt/rdp-acores-antena-1",
         "stream": "https://radioip.rtp.pt/liveradio/antena1acores80a/playlist.m3u8",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-futura": {
         "name": "Rádio Futura",
         "image": "https://static.mytuner.mobi/media/radios-150px/zwjcxtwgrsup.png",
         "url": "https://www.radios-online.pt/radio-futura",
         "stream": "https://s4.radio.co/s7e7b6c165/listen",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/barcafm-radio": {
         "name": "BarcaFM Rádio",
         "image": "https://static.mytuner.mobi/media/radios-150px/QksEYbsmBw.png",
         "url": "http://e.radios-online.pt/embed/barcafm-radio-414436",
         "stream": "http://centova.radio.com.pt:8483/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/batida-fm": {
         "name": "batida.fm",
         "image": "https://static.mytuner.mobi/media/radios-150px/VAcTLyceqW.png",
         "url": "https://www.radios-online.pt/batida-fm",
         "stream": "https://stream-icy.bauermedia.pt/batidafm.mp3",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-100-oldies": {
         "name": "100% OLDIES",
         "image": "https://static.mytuner.mobi/media/radios-150px/vt6hNDmCPt.jpg",
         "url": "https://www.radios-online.pt/radio-100-oldies",
         "stream": "https://play.radioregional.pt/stream/8/",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-portugal": {
         "name": "Rádio Portugal +",
         "image": "https://static.mytuner.mobi/media/radios-150px/dpGGJe5tCw.png",
         "url": "http://e.radios-online.pt/embed/radio-portugal-418428",
         "stream": "http://sv15.hdradios.net:7432/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/record-fm": {
         "name": "Record FM Porto",
         "image": "https://static.mytuner.mobi/media/radios-150px/7s2eYSW9kn.png",
         "url": "https://www.radios-online.pt/record-fm",
         "stream": "https://nl.digitalrm.pt:8028/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-sao-miguel-935": {
         "name": "Rádio São Miguel 93.4",
         "image": "https://static.mytuner.mobi/media/radios-150px/WfkqsEPFGU.png",
         "url": "https://www.radios-online.pt/radio-sao-miguel-935",
         "stream": "https://nl.digitalrm.pt:8140/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-nova-voz-de-santo-tirso": {
         "name": "Rádio Voz Santo Tirso",
         "image": "https://static.mytuner.mobi/media/radios-150px/M9uW7ymHLY.jpg",
         "url": "https://www.radios-online.pt/radio-nova-voz-de-santo-tirso",
         "stream": "https://radios.justweb.pt/8024/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-maria": {
         "name": "Radio Maria",
@@ -571,84 +571,84 @@
         "image": "https://static.mytuner.mobi/media/radios-150px/uZ278a9wFw.png",
         "url": "https://www.radios-online.pt/radio-xl-fm",
         "stream": "https://radios.justweb.pt:7000/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/rdp-antena-2-jazzin": {
         "name": "Antena 2 Jazzin",
         "image": "https://static.mytuner.mobi/media/radios-150px/gudfd7wmvwvq.png",
         "url": "https://www.radios-online.pt/rdp-antena-2-jazzin",
         "stream": "https://radioip.rtp.pt/liveradio/antena2jazzin80a/playlist.m3u8",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-do-folclore-portugues": {
         "name": "Rádio do Folclore Português",
         "image": "https://static.mytuner.mobi/media/radios-150px/7xmn6e3tgts8.jpg",
         "url": "https://www.radios-online.pt/radio-do-folclore-portugues",
         "stream": "https://sonic.servsonic.com/8012/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/recordfm": {
         "name": "Record FM",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/recordfm",
         "stream": "https://nl.digitalrm.pt:8010/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/res-fm2": {
         "name": "RES FM",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/res-fm2",
         "stream": "https://stream2.soundflux.eu/8440/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-100-rock": {
         "name": "100% ROCK",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-100-rock",
         "stream": "https://play.radioregional.pt/stream/7/",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/100-popular": {
         "name": "100% POPULAR",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/100-popular",
         "stream": "https://play.radioregional.pt/stream/15/",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/antena-minho": {
         "name": "Antena Minho",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "http://e.radios-online.pt/embed/antena-minho-414424",
         "stream": "http://centova.radios.pt:9464/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/m80-60s": {
         "name": "M80 - 60's",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/m80-60s",
         "stream": "https://bauermedia.pt/radiostream.aspx?radio=33&type=AAC",
-        "status": "UNVERIFIED"
+        "status": 302
     },
     "https://www.radios-online.pt/m80-soul": {
         "name": "M80 - Soul",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/m80-soul",
         "stream": "https://stream-icy.bauermedia.pt/m8060.aac?source=bauerptWebplayer&aw_0_1st.playerId=bauerptWebplayer",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/tropical-fm": {
         "name": "Tropical FM",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/tropical-fm",
         "stream": "https://bauermedia.pt/radiostream.aspx?radio=44&type=AAC",
-        "status": "UNVERIFIED"
+        "status": 302
     },
     "https://www.radios-online.pt/radio-cantinho-da-madeira": {
         "name": "Rádio Cantinho da Madeira",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "http://e.radios-online.pt/embed/radio-cantinho-da-madeira-458188",
         "stream": "http://109.71.41.6:8129/stream",
-        "status": "UNVERIFIED"
+        "status": 400
     },
     "https://www.radios-online.pt/hip-hop-radio": {
         "name": "Hip Hop Radio",
@@ -662,119 +662,119 @@
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "http://e.radios-online.pt/embed/radio-barcelos-414477",
         "stream": "http://centova.radios.pt:8563/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-marcoense": {
         "name": "Rádio Marcoense",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "http://e.radios-online.pt/embed/radio-marcoense-397891",
         "stream": "http://137.74.160.250:8000/;stream/1",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/hit-fm": {
         "name": "Hit FM",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/hit-fm",
         "stream": "https://stream.zeno.fm/88ck6ggfqm0uv",
-        "status": "UNVERIFIED"
+        "status": 302
     },
     "https://www.radios-online.pt/radio-brigantia": {
         "name": "Rádio Brigantia",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "http://e.radios-online.pt/embed/radio-brigantia-397985",
         "stream": "http://centova.radios.pt:8491/stream;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-promove-portugal": {
         "name": "Radio Promove Portugal",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-promove-portugal",
         "stream": "https://stream1.svrdedicado.org/8410/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/pef-posto-emissor-do-funchal-canal-1": {
         "name": "PEF – Posto Emissor do Funchal (Canal 1)",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "http://e.radios-online.pt/embed/pef-posto-emissor-do-funchal-canal-1-423387",
         "stream": "http://centova.radio.com.pt:9422/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/saudade-cidade": {
         "name": "Saudade Cidade",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/saudade-cidade",
         "stream": "https://stream.zeno.fm/q9k377tdzy8uv",
-        "status": "UNVERIFIED"
+        "status": 302
     },
     "https://www.radios-online.pt/00s-rfm": {
         "name": "00's RFM",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/00s-rfm",
         "stream": "https://stream-158.zeno.fm/q9k377tdzy8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxOWszNzd0ZHp5OHV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkV2Q3FFYVlpVDhpd0pMMlpRNTBqV0EiLCJpYXQiOjE3MjUwNjY0OTIsImV4cCI6MTcyNTA2NjU1Mn0.a-V3BXpWMWh3ZL7niteAaf9xHBN5W1oL3cbB4kco7To",
-        "status": "UNVERIFIED"
+        "status": 405
     },
     "https://www.radios-online.pt/radio-amor-interno": {
         "name": "Radio Amor Interno",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-amor-interno",
         "stream": "https://27793.live.streamtheworld.com/LIVESTREAMAAC_SC?dist=triton-widget&pname=tdwidgets",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/4drive-jazz": {
         "name": "4Drive Jazz",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/4drive-jazz",
         "stream": "https://ssl.stmxp.net:7134/stream?icy=http",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-comercial-kids": {
         "name": "Rádio Comercial Kids",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-comercial-kids",
         "stream": "https://radio.streemlion.com:1150/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/portugal-somos-nos": {
         "name": "Portugal Somos Nós",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/portugal-somos-nos",
         "stream": "https://stream-icy.bauermedia.pt/rckids.aac",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-voz-do-neiva": {
         "name": "Rádio Voz do Neiva",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-voz-do-neiva",
         "stream": "https://sp0.redeaudio.com:7178/live",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/luna-fm-portugal": {
         "name": "LUNA FM",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/luna-fm-portugal",
         "stream": "https://sp0.redeaudio.com/8092/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-motard-fm": {
         "name": "Radio Motard FM",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-motard-fm",
         "stream": "https://stream.lunafm.net/listen/lunaportugal/radio.aac",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/r80": {
         "name": "R80",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/r80",
         "stream": "https://sp0.redeaudio.com:10938/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-fundacao": {
         "name": "Rádio Fundação",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "http://e.radios-online.pt/embed/radio-fundacao-421875",
         "stream": "http://46.105.172.166:8044/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-cidade-hoje": {
         "name": "Rádio Cidade Hoje",
@@ -788,7 +788,7 @@
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-moderna",
         "stream": "https://sp0.redeaudio.com/8240/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/taste-of-portugal-radio": {
         "name": "Taste Of Portugal Radio",
@@ -802,56 +802,56 @@
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/fama-radio",
         "stream": "https://eu10.fastcast4u.com/famaradio",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/top-fm": {
         "name": "Top FM",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "http://e.radios-online.pt/embed/top-fm-446111",
         "stream": "http://213.136.92.8:8038/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-regional-de-arouca": {
         "name": "Rádio Regional de Arouca",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "http://e.radios-online.pt/embed/radio-regional-de-arouca-415031",
         "stream": "http://centova.radios.pt:8485/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/rds-radio-lisboa": {
         "name": "RDS Rádio Lisboa",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/rds-radio-lisboa",
         "stream": "https://s9.yesstreaming.net:7070/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-valdevez": {
         "name": "Rádio Valdevez",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "http://e.radios-online.pt/embed/radio-valdevez-414454",
         "stream": "http://centova.radio.com.pt:9508/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-amor-eterno": {
         "name": "Radio Amor Eterno",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-amor-eterno",
         "stream": "https://ssl.stmxp.net:7134/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-afurada": {
         "name": "Rádio Afurada",
         "image": "https://static.mytuner.mobi/media/radios-150px/v3fdnzuruumt.png",
         "url": "https://www.radios-online.pt/radio-afurada",
         "stream": "https://sp0.redeaudio.com/9988/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-ansiaes": {
         "name": "Rádio Ansiães",
         "image": "https://static.mytuner.mobi/media/radios-150px/Qtn6UYPuFQ.jpg",
         "url": "http://e.radios-online.pt/embed/radio-ansiaes-423350",
         "stream": "http://centova.radio.com.pt:8419/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/classic-rock-portugal": {
         "name": "Classic Rock Portugal",
@@ -865,455 +865,455 @@
         "image": "https://static.mytuner.mobi/media/radios-150px/6usAdRJzHT.png",
         "url": "http://e.radios-online.pt/embed/radio-ondas-do-lima-414386",
         "stream": "http://centova.radio.com.pt:8407/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-comercial-dos-acores-tsf": {
         "name": "Radio Açores TSF",
         "image": "https://static.mytuner.mobi/media/radios-150px/VdsM7J6uaa.png",
         "url": "http://e.radios-online.pt/embed/radio-comercial-dos-acores-tsf-414379",
         "stream": "http://centova.radio.com.pt:8243/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-gondomar-mix": {
         "name": "Radio Gondomar Mix",
         "image": "https://static.mytuner.mobi/media/radios-150px/qwceyryqlpsy.jpeg",
         "url": "https://www.radios-online.pt/radio-gondomar-mix",
         "stream": "https://sp0.redeaudio.com:10860/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/ruc-radio-universidade-de-coimbra": {
         "name": "RUC – Rádio Universidade de Coimbra",
         "image": "https://static.mytuner.mobi/media/radios-150px/sJqE9wxxHR.png",
         "url": "https://www.radios-online.pt/ruc-radio-universidade-de-coimbra",
         "stream": "https://stream.ruc.pt/high",
-        "status": "UNVERIFIED"
+        "status": 400
     },
     "https://www.radios-online.pt/radio-botareu-1000-fm": {
         "name": "Rádio Botaréu 100.0 FM",
         "image": "https://static.mytuner.mobi/media/radios-150px/9BmhZCmaj2.png",
         "url": "https://www.radios-online.pt/radio-botareu-1000-fm",
         "stream": "https://nl.digitalrm.pt:8238/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-linear": {
         "name": "Rádio Linear",
         "image": "https://static.mytuner.mobi/media/radios-150px/ppkf7Jtsvt.png",
         "url": "https://www.radios-online.pt/radio-linear",
         "stream": "https://nl.digitalrm.pt:8184/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/tsf-madeira": {
         "name": "TSF Madeira",
         "image": "https://static.mytuner.mobi/media/radios-150px/vlpbucdmvu8d.jpg",
         "url": "http://e.radios-online.pt/embed/tsf-madeira-412297",
         "stream": "http://centova.radios.pt:9470/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-alto-minho": {
         "name": "Rádio Alto Minho",
         "image": "https://static.mytuner.mobi/media/radios-150px/spzkYxvqqf.png",
         "url": "https://www.radios-online.pt/radio-alto-minho",
         "stream": "https://ec2.yesstreaming.net:3705/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-exitos-portugueses": {
         "name": "Rádio Êxitos Portugueses",
         "image": "https://static.mytuner.mobi/media/radios-150px/ncK7Ahdwkp.jpg",
         "url": "https://www.radios-online.pt/radio-exitos-portugueses",
         "stream": "https://stm9.voxhd.com.br:8686/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-portugal-star": {
         "name": "Rádio Portugal Star",
         "image": "https://static.mytuner.mobi/media/radios-150px/vNkWsE9wxq.png",
         "url": "http://e.radios-online.pt/embed/radio-portugal-star-425406",
         "stream": "http://185.118.112.12:8028/live",
-        "status": "UNVERIFIED"
+        "status": 400
     },
     "https://www.radios-online.pt/100-brasil": {
         "name": "100% BRASIL",
         "image": "https://static.mytuner.mobi/media/radios-150px/q7b9gFweRe.jpg",
         "url": "https://www.radios-online.pt/100-brasil",
         "stream": "https://play.radioregional.pt/stream/11/",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/nitfm": {
         "name": "NiTfm",
         "image": "https://static.mytuner.mobi/media/radios-150px/shmuwwhyssy6.jpg",
         "url": "https://www.radios-online.pt/nitfm",
         "stream": "https://sp0.redeaudio.com/8028/stream/;/live",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-vizela": {
         "name": "Rádio Vizela",
         "image": "https://static.mytuner.mobi/media/radios-150px/Zv9L3bftnX.png",
         "url": "http://e.radios-online.pt/embed/radio-vizela-411807",
         "stream": "http://109.71.41.6:8100/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-festival-madeira": {
         "name": "Rádio Festival Madeira",
         "image": "https://static.mytuner.mobi/media/radios-150px/ffxpgw7pydqc.png",
         "url": "https://www.radios-online.pt/radio-festival-madeira",
         "stream": "https://audio.serv.pt/8012/stream.mp3?_=5",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/record-fm-algarve": {
         "name": "Record FM Algarve",
         "image": "https://static.mytuner.mobi/media/radios-150px/gbc63v8r4zq3.png",
         "url": "https://www.radios-online.pt/record-fm-algarve",
         "stream": "https://nl.digitalrm.pt:8020/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-clube-santa-marta": {
         "name": "Radio Clube Santa Marta",
         "image": "https://static.mytuner.mobi/media/radios-150px/d6MJKgy66U.png",
         "url": "http://e.radios-online.pt/embed/radio-clube-santa-marta-492210",
         "stream": "http://185.32.188.17:8005/live",
-        "status": "UNVERIFIED"
+        "status": 400
     },
     "https://www.radios-online.pt/100-classica": {
         "name": "100% CLÁSSICA",
         "image": "https://static.mytuner.mobi/media/radios-150px/gkU4T4w8hH.jpg",
         "url": "https://www.radios-online.pt/100-classica",
         "stream": "https://play.radioregional.pt/stream/13/",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-atlantida": {
         "name": "Rádio Atlântida",
         "image": "https://static.mytuner.mobi/media/radios-150px/aVccR9b8rt.png",
         "url": "https://www.radios-online.pt/radio-atlantida",
         "stream": "https://cast1.lunabroadcasting.net/listen/atlantida/radio.mp3",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-5": {
         "name": "Rádio 5",
         "image": "https://static.mytuner.mobi/media/radios-150px/3buC2Ta8wq.jpg",
         "url": "https://www.radios-online.pt/radio-5",
         "stream": "https://radios.justweb.pt/8042/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-clube-da-covilha": {
         "name": "Rádio Clube da Covilhã",
         "image": "https://static.mytuner.mobi/media/radios-150px/PABssv67gK.jpg",
         "url": "http://e.radios-online.pt/embed/radio-clube-da-covilha-414413",
         "stream": "http://centova.radios.pt:9450/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/rcm-radio-clube-de-monsanto": {
         "name": "RCM - Rádio Clube de Monsanto",
         "image": "https://static.mytuner.mobi/media/radios-150px/sUEfrtCtrb.jpg",
         "url": "https://www.radios-online.pt/rcm-radio-clube-de-monsanto",
         "stream": "https://s9.yesstreaming.net:9029/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-regiao-de-basto": {
         "name": "Rádio Região de Basto",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-regiao-de-basto",
         "stream": "https://shoutcast.htt.pt:8040/radio.mp3",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/portugal-radio-fm": {
         "name": "Portugal Radio FM",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/portugal-radio-fm",
         "stream": "https://stream.zeno.fm/fmgvqgxtdgkuv",
-        "status": "UNVERIFIED"
+        "status": 302
     },
     "https://www.radios-online.pt/radio-comercial-one-hit-wonders": {
         "name": "Rádio Comercial One Hit Wonders",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-comercial-one-hit-wonders",
         "stream": "https://stream-162.zeno.fm/fmgvqgxtdgkuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmbWd2cWd4dGRna3V2IiwiaG9zdCI6InN0cmVhbS0xNjIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik5uaEpUTUw1UVJXLXU2QmdOZEI4UUEiLCJpYXQiOjE3MjUwNjcwNDcsImV4cCI6MTcyNTA2NzEwN30.x3DOrOxcYY_MqmWz-PIVU6oRQkMgKjMnEgNTcu6tG0I",
-        "status": "UNVERIFIED"
+        "status": 405
     },
     "https://www.radios-online.pt/pef-posto-emissor-do-funchal-canal-2": {
         "name": "PEF – Posto Emissor do Funchal (Canal 2)",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "http://e.radios-online.pt/embed/pef-posto-emissor-do-funchal-canal-2-414394",
         "stream": "http://centova.radios.pt:9426/;listen.pls",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-foia": {
         "name": "Rádio Foia",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "http://e.radios-online.pt/embed/radio-foia-414475",
         "stream": "http://centova.radio.com.pt:8559/",
-        "status": "UNVERIFIED"
+        "status": 401
     },
     "https://www.radios-online.pt/radio-clube-de-lamego": {
         "name": "Rádio Clube de Lamego",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "http://e.radios-online.pt/embed/radio-clube-de-lamego-462245",
         "stream": "http://109.71.41.6:8110/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-lusitania-cb": {
         "name": "Radio Lusitania CB",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-lusitania-cb",
         "stream": "https://stm11.painelcast.com:7118/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-cister": {
         "name": "Rádio Cister FM",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-cister",
         "stream": "http://centova.radio.com.pt:8453/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/rdp-antena-1-memoria": {
         "name": "RDP Antena 1 Memória",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/rdp-antena-1-memoria",
         "stream": "https://radioip.rtp.pt/liveradio/antena1memoria80a/playlist.m3u8",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/rdp-antena-1-lusitania": {
         "name": "Antena 1 Lusitânia",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/rdp-antena-1-lusitania",
         "stream": "https://radioip.rtp.pt/liveradio/lusitania80a/playlist.m3u8",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-portuense": {
         "name": "Rádio Portuense",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-portuense",
         "stream": "https://sp0.redeaudio.com/8160/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/alvor-fm": {
         "name": "Alvor FM",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/alvor-fm",
         "stream": "http://centova.radios.pt:8469/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-riba-tavora": {
         "name": "Rádio Riba – Távora",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-riba-tavora",
         "stream": "http://centova.radio.com.pt:9542/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-metal-on-the-thrasher": {
         "name": "Radio Metal On:  The Thrasher",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-metal-on-the-thrasher",
         "stream": "https://radiometalon.com/listen/radio_metal_on_the_thrasher/radio.mp3",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-cova-da-beira": {
         "name": "Rádio Cova da Beira",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-cova-da-beira",
         "stream": "http://centova.radios.pt:8467/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/rdp-internacional": {
         "name": "RDP Internacional",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/rdp-internacional",
         "stream": "https://radioip.rtp.pt/liveradio/rdpint80a/playlist.m3u8",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-antena-nove": {
         "name": "Rádio Antena Nove",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-antena-nove",
         "stream": "http://centova.radios.pt:8565/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-clube-de-arganil": {
         "name": "Rádio Clube de Arganil",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-clube-de-arganil",
         "stream": "http://176.9.43.216:8135/stream",
-        "status": "UNVERIFIED"
+        "status": 400
     },
     "https://www.radios-online.pt/gongas-radio": {
         "name": "Gongas Radio",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/gongas-radio",
         "stream": "https://a6.asurahosting.com:7930/radio.mp3",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-matosinhos-online": {
         "name": "Rádio Matosinhos Online",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-matosinhos-online",
         "stream": "http://185.32.188.17:8035/stream",
-        "status": "UNVERIFIED"
+        "status": 400
     },
     "https://www.radios-online.pt/brazuca-flash": {
         "name": "Brazuca Flash",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/brazuca-flash",
         "stream": "https://ssls.stmxp.net:8237/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/100-inspiration": {
         "name": "100% INSPIRATION",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/100-inspiration",
         "stream": "https://play.radioregional.pt/stream/12/",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-voz-de-alenquer": {
         "name": "Rádio Voz de Alenquer",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-voz-de-alenquer",
         "stream": "https://ec2.yesstreaming.net:2975/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/rum-radio-universitaria-do-minho": {
         "name": "RUM - Rádio Universitária do Minho",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/rum-radio-universitaria-do-minho",
         "stream": "http://centova.radio.com.pt:9558/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-metal-on-the-heavy": {
         "name": "Radio Metal On: The Heavy",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-metal-on-the-heavy",
         "stream": "https://radiometalon.com/listen/radio_metal_on_the_heavy/radio.mp3",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/terra-quente-fm": {
         "name": "Terra Quente FM",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/terra-quente-fm",
         "stream": "http://centova.radio.com.pt:9402/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/roxx-2-metal": {
         "name": "Roxx 2 Metal",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/roxx-2-metal",
         "stream": "https://listen6.myradio24.com/6359",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-onda-livre-macedense": {
         "name": "Rádio Onda Livre Macedense",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-onda-livre-macedense",
         "stream": "http://centova.radio.com.pt:9572/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-voz-do-tua": {
         "name": "Radio Voz do Tua",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-voz-do-tua",
         "stream": "https://servidor37-3.brlogic.com:7128/live",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-popular-afifense": {
         "name": "Rádio Popular Afifense",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-popular-afifense",
         "stream": "http://centova.radios.pt:8471/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/rps-radio-popular-de-soure": {
         "name": "RPS - Rádio Popular de Soure",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/rps-radio-popular-de-soure",
         "stream": "https://nl.digitalrm.pt:8072/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-lagoa": {
         "name": "Rádio Lagoa",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-lagoa",
         "stream": "http://centova.radios.pt:9488/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/rdp-antena-2-opera": {
         "name": "Antena 2 Ópera",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/rdp-antena-2-opera",
         "stream": "https://radioip.rtp.pt/liveradio/antena2opera80a/playlist.m3u8",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-condestavel": {
         "name": "Rádio Condestável",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-condestavel",
         "stream": "http://centova.radio.com.pt:8427/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-caxinas": {
         "name": "Rádio Caxinas",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-caxinas",
         "stream": "https://sp0.redeaudio.com/9826/;stream.mp3",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-cultural-de-cerveira": {
         "name": "Rádio Cultural de Cerveira",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-cultural-de-cerveira",
         "stream": "http://185.32.188.17:8062/stream",
-        "status": "UNVERIFIED"
+        "status": 400
     },
     "https://www.radios-online.pt/radio-club-de-angra": {
         "name": "Rádio Club de Angra",
         "image": "https://static.mytuner.mobi/media/radios-150px/UdLNSyantC.png",
         "url": "https://www.radios-online.pt/radio-club-de-angra",
         "stream": "https://nl.digitalrm.pt:8104/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-caria": {
         "name": "Rádio Caria",
         "image": "https://static.mytuner.mobi/media/radios-150px/XeqL5m4zKm.jpg",
         "url": "https://www.radios-online.pt/radio-caria",
         "stream": "http://centova.radio.com.pt:8521/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-portalegre": {
         "name": "Rádio Portalegre",
         "image": "https://static.mytuner.mobi/media/radios-150px/ewwW9AXcqD.png",
         "url": "https://www.radios-online.pt/radio-portalegre",
         "stream": "http://centova.radios.pt:9492/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/on-fm": {
         "name": "On FM",
         "image": "https://static.mytuner.mobi/media/radios-150px/7hswpez6v3cj.png",
         "url": "https://www.radios-online.pt/on-fm",
         "stream": "http://shoutcast.lunabroadcasting.net:8052/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-clube-asas-do-atlantico": {
         "name": "Rádio Clube Asas do Atlântico",
         "image": "https://static.mytuner.mobi/media/radios-150px/wWcJQd8R2j.png",
         "url": "https://www.radios-online.pt/radio-clube-asas-do-atlantico",
         "stream": "http://centova.radios.pt:9538/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-fado-de-coimbra": {
         "name": "Radio Fado de Coimbra",
         "image": "https://static.mytuner.mobi/media/radios-150px/qhv8f3hhrspa.jpg",
         "url": "https://www.radios-online.pt/radio-fado-de-coimbra",
         "stream": "https://nl.digitalrm.pt:8048/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/hits-radio-cuba": {
         "name": "Hits Radio Cuba",
         "image": "https://static.mytuner.mobi/media/radios-150px/973/hits-radio-cuba.c094b2f2.png",
         "url": "https://www.radios-online.pt/hits-radio-cuba",
         "stream": "http://everest.servercast.com.br:1180/;?nocache=1722950878&type=http",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-jornal-da-madeira": {
         "name": "Rádio Jornal da Madeira",
         "image": "https://static.mytuner.mobi/media/radios-150px/Rf6tkrpgPA.png",
         "url": "https://www.radios-online.pt/radio-jornal-da-madeira",
         "stream": "https://radios2.justweb.pt/8046/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-alcabidechefm": {
         "name": "Rádio AlcabidecheFM",
@@ -1334,49 +1334,49 @@
         "image": "https://static.mytuner.mobi/media/radios-150px/43e4hcxGYR.jpg",
         "url": "https://www.radios-online.pt/radio-planicie",
         "stream": "http://109.71.41.6:8026/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-canal-fm": {
         "name": "Rádio Canal FM",
         "image": "https://static.mytuner.mobi/media/radios-150px/suge8aJ27Y.jpg",
         "url": "https://www.radios-online.pt/radio-canal-fm",
         "stream": "http://centova.radio.com.pt:9466/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-emissora-das-beiras": {
         "name": "Rádio Emissora das Beiras",
         "image": "https://static.mytuner.mobi/media/radios-150px/RmqnKCfWUM.png",
         "url": "https://www.radios-online.pt/radio-emissora-das-beiras",
         "stream": "http://centova.radios.pt:8465/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-senior-da-misericordia": {
         "name": "Radio Sénior da Misericórdia",
         "image": "https://static.mytuner.mobi/media/radios-150px/38dmNrLbGq.png",
         "url": "https://www.radios-online.pt/radio-senior-da-misericordia",
         "stream": "https://sp0.redeaudio.com/8198/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-antena-livre-gouveia": {
         "name": "Rádio Antena Livre - Gouveia",
         "image": "https://static.mytuner.mobi/media/radios-150px/gURWMJ2fnF.jpg",
         "url": "https://www.radios-online.pt/radio-antena-livre-gouveia",
         "stream": "http://centova.radio.com.pt:9456/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/rfb-radio-forum-boticas": {
         "name": "RFB - Rádio Fórum Boticas",
         "image": "https://static.mytuner.mobi/media/radios-150px/YMWDmjRwbN.png",
         "url": "https://www.radios-online.pt/rfb-radio-forum-boticas",
         "stream": "http://188.93.231.97:9300/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-regional-nacional": {
         "name": "RÁDIO REGIONAL",
         "image": "https://static.mytuner.mobi/media/radios-150px/9sS7Xwj7RS.png",
         "url": "https://www.radios-online.pt/radio-regional-nacional",
         "stream": "https://play.radioregional.pt/stream/1/",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/tunetradio": {
         "name": "TunetRadio",
@@ -1390,21 +1390,21 @@
         "image": "https://static.mytuner.mobi/media/radios-150px/zJ8Rn45bkU.png",
         "url": "https://www.radios-online.pt/iris-fm",
         "stream": "http://centova.radio.com.pt:8529/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/rqc-radio-quinta-do-conde": {
         "name": "RQC - Rádio Quinta do Conde",
         "image": "https://static.mytuner.mobi/media/radios-150px/dam6uGHwDw.jpg",
         "url": "https://www.radios-online.pt/rqc-radio-quinta-do-conde",
         "stream": "https://sp0.redeaudio.com/8100/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-popular": {
         "name": "Rádio Popular",
         "image": "https://static.mytuner.mobi/media/radios-150px/jkyqca8z6awx.png",
         "url": "https://www.radios-online.pt/radio-popular",
         "stream": "https://audio.serv.pt/8008/stream.mp3?_=5",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-montemuro": {
         "name": "Rádio Montemuro",
@@ -1418,42 +1418,42 @@
         "image": "https://static.mytuner.mobi/media/radios-150px/5bKFrDWPJw.png",
         "url": "https://www.radios-online.pt/radio-lajes2",
         "stream": "https://radios.justweb.pt:7027/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/abc-portugal": {
         "name": "ABC Portugal",
         "image": "https://static.mytuner.mobi/media/radios-150px/mqNH94QbH8.png",
         "url": "https://www.radios-online.pt/abc-portugal",
         "stream": "http://centova.radio.com.pt:8547/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-hertz": {
         "name": "Rádio Hertz",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-hertz",
         "stream": "http://213.136.92.8:8030/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/geice-fm": {
         "name": "Geice FM",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/geice-fm",
         "stream": "https://ec2.yesstreaming.net:3275/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/xfm-portugal": {
         "name": "XFM Portugal",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/xfm-portugal",
         "stream": "https://listen.radionomy.com/xfmportugal",
-        "status": "UNVERIFIED"
+        "status": 302
     },
     "https://www.radios-online.pt/tugafm": {
         "name": "TugaFm",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/tugafm",
         "stream": "https://streamingp.shoutcast.com/JamendoLounge?lang=en-US%2cen%3bq%3d0.5",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-mertola": {
         "name": "Rádio Mértola",
@@ -1467,308 +1467,308 @@
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-valor-local",
         "stream": "https://radios2.justweb.pt/8078/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-portuguesa-do-var": {
         "name": "Rádio Portuguesa do Var",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-portuguesa-do-var",
         "stream": "https://sonic.servsonic.com:7003/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-gospel-da-covilha": {
         "name": "Radio Gospel Da Covilha",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-gospel-da-covilha",
         "stream": "http://s01.taaqui.org:9944/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/rc-alentejo-radio-corval-alentejo": {
         "name": "RC Alentejo - Rádio Corval Alentejo",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/rc-alentejo-radio-corval-alentejo",
         "stream": "http://centova.radio.com.pt:9184/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-terranova": {
         "name": "Rádio TerraNova",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-terranova",
         "stream": "http://centova.radios.pt:9404/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-voz-do-marao": {
         "name": "Rádio Voz do Marão",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-voz-do-marao",
         "stream": "https://radios.justweb.pt/8016/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/diana-fm": {
         "name": "Diana FM",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/diana-fm",
         "stream": "http://centova.radio.com.pt:9460/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/azemeis-fm": {
         "name": "AZFM - Azeméis FM",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/azemeis-fm",
         "stream": "https://stream.azfm.com/azfm",
-        "status": "UNVERIFIED"
+        "status": 400
     },
     "https://www.radios-online.pt/radio-calheta": {
         "name": "Rádio Calheta",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-calheta",
         "stream": "https://streamonline.pt/radio/8000/radiocalheta",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radioeste": {
         "name": "RadiOeste 97.8 FM",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radioeste",
         "stream": "http://radios2.justweb.pt:8004/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-clube-pacos-de-ferreira": {
         "name": "Rádio Clube Paços de Ferreira",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-clube-pacos-de-ferreira",
         "stream": "https://servidor37-3.brlogic.com:7128/live",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-pico": {
         "name": "Rádio Pico",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-pico",
         "stream": "http://centova.radio.com.pt:9420/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-liz": {
         "name": "Record Leiria",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-liz",
         "stream": "https://nl.digitalrm.pt:8026/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-total-fm": {
         "name": "Rádio Total FM",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-total-fm",
         "stream": "http://176.61.144.80:9300/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-clube-de-sintra": {
         "name": "Radio RCS 91.2 FM",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-clube-de-sintra",
         "stream": "http://centova.radio.com.pt:8445/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-estadio": {
         "name": "Rádio Estádio",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-estadio",
         "stream": "http://radios2.justweb.pt:8008/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/ultra-fm": {
         "name": "Ultra FM",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/ultra-fm",
         "stream": "http://centova.radios.pt:9506/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-zig-zag": {
         "name": "Rádio Zig Zag",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-zig-zag",
         "stream": "https://radioip.rtp.pt/liveradio/zigzag80a/playlist.m3u8",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/best-of-musica": {
         "name": "Best Of Música",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/best-of-musica",
         "stream": "http://185.32.188.17:8026/stream",
-        "status": "UNVERIFIED"
+        "status": 400
     },
     "https://www.radios-online.pt/radio-voz-do-douro": {
         "name": "Rádio Voz do Douro",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-voz-do-douro",
         "stream": "http://46.105.172.166:9968/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-dance-portugal": {
         "name": "Radio Dance Portugal",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-dance-portugal",
         "stream": "http://s1.stmxp.net:8046/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-top80-pt": {
         "name": "Radio Top80 PT",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-top80-pt",
         "stream": "https://stream.zeno.fm/bbdnbsvhvnhvv",
-        "status": "UNVERIFIED"
+        "status": 302
     },
     "https://www.radios-online.pt/rfi-em-portugues": {
         "name": "RFI em Português",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/rfi-em-portugues",
         "stream": "https://stream-153.zeno.fm/bbdnbsvhvnhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiYmRuYnN2aHZuaHZ2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ilc0UGVNR2EyUzN1TmZaZUN4dnNxYkEiLCJpYXQiOjE3MjUwNjc3ODIsImV4cCI6MTcyNTA2Nzg0Mn0.mQI7DJwZQThJa15PNvgVBlOecKi7UR4F0iY1JccnBYw",
-        "status": "UNVERIFIED"
+        "status": 405
     },
     "https://www.radios-online.pt/radio-marte-madeira": {
         "name": "Radio Marte Madeira",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-marte-madeira",
         "stream": "http://138.201.198.218:8010/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-antena-livre-abrantes": {
         "name": "Rádio Antena Livre - Abrantes",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-antena-livre-abrantes",
         "stream": "http://centova.radio.com.pt:8571/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/soul-breeze-radio": {
         "name": "Soul Breeze Radio",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/soul-breeze-radio",
         "stream": "https://streaming.radio.co/s97d43a8c5/listen",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-regional-braganca": {
         "name": "RÁDIO REGIONAL BRAGANÇA",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-regional-braganca",
         "stream": "https://play.radioregional.pt/stream/5/",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-94-fm": {
         "name": "Radio 94 FM",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-94-fm",
         "stream": "http://185.11.164.106:35022/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/soberania-fm": {
         "name": "Soberania FM",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/soberania-fm",
         "stream": "https://nl.digitalrm.pt:8034/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/rci-viseu": {
         "name": "RCI Viseu",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/rci-viseu",
         "stream": "https://nl.digitalrm.pt:8002/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-plastique-portugal": {
         "name": "Radio Plastique Portugal",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-plastique-portugal",
         "stream": "https://s4.radio.co/s3ebb29d0e/listen",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/rcm-radio-do-concelho-de-mafra": {
         "name": "RCM - Rádio do Concelho de Mafra",
         "image": "https://static.mytuner.mobi/media/radios-150px/xRA8sCnXJC.png",
         "url": "https://www.radios-online.pt/rcm-radio-do-concelho-de-mafra",
         "stream": "http://centova.radio.com.pt:8551/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/horizonte-fm-928": {
         "name": "Horizonte FM 92.8",
         "image": "https://static.mytuner.mobi/media/radios-150px/53KPHjpgcg.png",
         "url": "https://www.radios-online.pt/horizonte-fm-928",
         "stream": "https://radios2.justweb.pt:8028/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-clube-da-madeira": {
         "name": "Rádio Clube da Madeira",
         "image": "https://static.mytuner.mobi/media/radios-150px/l9zvpssancwm.png",
         "url": "https://www.radios-online.pt/radio-clube-da-madeira",
         "stream": "http://radiosmadeira.net:8020/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-regional-vila-real": {
         "name": "RÁDIO REGIONAL VILA REAL",
         "image": "https://static.mytuner.mobi/media/radios-150px/bqetK2VAQm.png",
         "url": "https://www.radios-online.pt/radio-regional-vila-real",
         "stream": "https://play.radioregional.pt/stream/3/",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/rna-radio-nova-antena-montemor": {
         "name": "RNA - Rádio Nova Antena Montemor",
         "image": "https://static.mytuner.mobi/media/radios-150px/417/rna-radio-nova-antena-montemor.084d2bdb.png",
         "url": "https://www.radios-online.pt/rna-radio-nova-antena-montemor",
         "stream": "https://radios2.justweb.pt:8068/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-cantinho-dos-emigrantes": {
         "name": "Rádio Cantinho dos Emigrantes",
         "image": "https://static.mytuner.mobi/media/radios-150px/dxCKp8Q3xw.png",
         "url": "https://www.radios-online.pt/radio-cantinho-dos-emigrantes",
         "stream": "http://185.240.251.169:9148/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-antena-sul-viana-do-alentejo": {
         "name": "Rádio Antena Sul - Viana do Alentejo",
         "image": "https://static.mytuner.mobi/media/radios-150px/dYD8UWE3AW.png",
         "url": "https://www.radios-online.pt/radio-antena-sul-viana-do-alentejo",
-        "stream": "https://nl.digitalrm.pt:8022/stream",
-        "status": "UNVERIFIED"
+        "stream": null,
+        "status": 404
     },
     "https://www.radios-online.pt/ams-radio": {
         "name": "AMS Rádio",
         "image": "https://static.mytuner.mobi/media/radios-150px/e5uvjkx6y6zr.png",
         "url": "https://www.radios-online.pt/ams-radio",
         "stream": "http://185.32.188.17:8027/live",
-        "status": "UNVERIFIED"
+        "status": 400
     },
     "https://www.radios-online.pt/radio-porto-cidade": {
         "name": "Radio Porto Cidade",
         "image": "https://static.mytuner.mobi/static/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-porto-cidade",
         "stream": "https://sslradio.servsonic.com/9308/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-saudade": {
         "name": "Radio Saudade",
         "image": "https://static.mytuner.mobi/media/radios-150px/xvtcgfam7bza.png",
         "url": "https://www.radios-online.pt/radio-saudade",
         "stream": "https://nl.digitalrm.pt:8068/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-azul": {
         "name": "Rádio Azul",
         "image": "https://static.mytuner.mobi/media/radios-150px/h3Cfg45jZd.png",
         "url": "https://www.radios-online.pt/radio-azul",
         "stream": "https://sado.radioazul.pt/live?type=.mp3",
-        "status": "UNVERIFIED"
+        "status": 400
     },
     "https://www.radios-online.pt/tejo-radio-jornal": {
         "name": "Tejo Rádio Jornal",
         "image": "https://static.mytuner.mobi/media/radios-150px/XJ3r7rUawN.jpg",
         "url": "https://www.radios-online.pt/tejo-radio-jornal",
         "stream": "http://centova.radio.com.pt:8531/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-voz-de-matosinhos": {
         "name": "Rádio Voz de Matosinhos",
         "image": "https://static.mytuner.mobi/media/radios-150px/b9cqcwe3kn6g.png",
         "url": "https://www.radios-online.pt/radio-voz-de-matosinhos",
         "stream": "https://radios.justweb.pt/8020/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-f": {
         "name": "Rádio F",
@@ -1782,42 +1782,42 @@
         "image": "https://static.mytuner.mobi/media/radios-150px/442/radio-elvas.85c33f64.png",
         "url": "https://www.radios-online.pt/radio-elvas",
         "stream": "https://radios2.justweb.pt:8066/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/apulienses-radio": {
         "name": "Apulienses Radio",
         "image": "https://static.mytuner.mobi/media/radios-150px/vmwd2fesqc.png",
         "url": "https://www.radios-online.pt/apulienses-radio",
         "stream": "https://stream.zeno.fm/avjxrnxxrxyuv",
-        "status": "UNVERIFIED"
+        "status": 302
     },
     "https://www.radios-online.pt/rdp-antena-1-vida": {
         "name": "Antena 1 Vida",
         "image": "https://static.mytuner.mobi/media/radios-150px/vL5JFMNaHb.png",
         "url": "https://www.radios-online.pt/rdp-antena-1-vida",
         "stream": "https://stream-154.zeno.fm/avjxrnxxrxyuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhdmp4cm54eHJ4eXV2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImFIWXlwMGFyU2MycWkzOWc4SFZHTHciLCJpYXQiOjE3MjUwNjc4NzcsImV4cCI6MTcyNTA2NzkzN30.B4sP7GK6j_X_z8MmHQCirNNzb4MOisIA8jF6r1USz1I",
-        "status": "UNVERIFIED"
+        "status": 405
     },
     "https://www.radios-online.pt/radio-onda-nacional": {
         "name": "Rádio Onda Nacional",
         "image": "https://static.mytuner.mobi/media/radios-150px/zYwVGprT2d.jpg",
         "url": "https://www.radios-online.pt/radio-onda-nacional",
         "stream": "https://cast.redewt.net:9823/stream",
-        "status": "UNVERIFIED"
+        "status": 400
     },
     "https://www.radios-online.pt/7kilowatte-radio-station": {
         "name": "7Kilowatte Radio Station",
         "image": "https://static.mytuner.mobi/media/radios-150px/A9AkJwKemf.png",
         "url": "https://www.radios-online.pt/7kilowatte-radio-station",
         "stream": "https://listen3.myradio24.com/86047",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-rlcb-tuga": {
         "name": "Radio RLCB Tuga",
         "image": "https://static.mytuner.mobi/media/radios-150px/wbbmheqvugm8.gif",
         "url": "https://www.radios-online.pt/radio-rlcb-tuga",
         "stream": "http://stm6.conectastreaming.com:8272/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-clube-da-feira2": {
         "name": "Rádio Clube da Feira",
@@ -1831,21 +1831,21 @@
         "image": "https://static.mytuner.mobi/media/radios-150px/hL8DzZz3Yt.jpg",
         "url": "https://www.radios-online.pt/alentejo-fm",
         "stream": "https://stream.zeno.fm/dtxq6phyurhvv.m3u",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/97fm-radio-clube-pombal": {
         "name": "97fm Rádio Clube Pombal",
         "image": "https://static.mytuner.mobi/media/radios-150px/hCn5w468Zc.png",
         "url": "https://www.radios-online.pt/97fm-radio-clube-pombal",
         "stream": "https://stream.zeno.fm/dtxq6phyurhvv",
-        "status": "UNVERIFIED"
+        "status": 302
     },
     "https://www.radios-online.pt/sftd-songs-for-the-deaf-radio": {
         "name": "SFTD - Songs for the Deaf Radio",
         "image": "https://static.mytuner.mobi/media/radios-150px/kmkmsn89kvqx.png",
         "url": "https://www.radios-online.pt/sftd-songs-for-the-deaf-radio",
         "stream": "https://stream-176.zeno.fm/dtxq6phyurhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJkdHhxNnBoeXVyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjU2X05Qak9EVEJPc3JLSjc1cWFXVmciLCJpYXQiOjE3MjUwNjc4OTYsImV4cCI6MTcyNTA2Nzk1Nn0.WmNqwE__X2D-p6dshbzxNtQnDs0KkDxW5FfYli0Sxeg",
-        "status": "UNVERIFIED"
+        "status": 405
     },
     "https://www.radios-online.pt/radio-metal-on-80s-hnh": {
         "name": "Radio Metal On - 80s HNH",
@@ -1859,63 +1859,63 @@
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-vidigueira",
         "stream": "http://centova.radio.com.pt:8567/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-amigos-do-coracao": {
         "name": "Radio_Amigos_do_Coracao",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-amigos-do-coracao",
         "stream": "https://stm1.maystream.top:7004/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-limite": {
         "name": "Rádio Limite",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-limite",
         "stream": "http://centova.radio.com.pt:9408/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/altitude-fm": {
         "name": "Altitude FM",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/altitude-fm",
         "stream": "http://centova.radio.com.pt:9034/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-av-fm": {
         "name": "Rádio AV FM",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-av-fm",
         "stream": "http://116.202.241.212:7035/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-campo-maior": {
         "name": "Rádio Campo Maior",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-campo-maior",
         "stream": "https://radios2.justweb.pt:8064/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/rmp-radio-mundo-portugal": {
         "name": "RMP - Rádio Mundo Portugal",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/rmp-radio-mundo-portugal",
         "stream": "http://sp0.redeaudio.com:8022/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/mix-now": {
         "name": "MIX NOW",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/mix-now",
         "stream": "https://live.mixnow.pt/listen/mixnow/radio.mp3",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-granada-fm": {
         "name": "Radio Granada FM",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-granada-fm",
         "stream": "http://centova.radio.com.pt:8549/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/rvd-radio": {
         "name": "RVD Rádio",
@@ -1929,28 +1929,28 @@
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-voz-do-norte",
         "stream": "https://sp0.redeaudio.com/8018/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-despertar": {
         "name": "Radio Despertar",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-despertar",
         "stream": "https://stream.zeno.fm/fx5n4m0xkwzuv",
-        "status": "UNVERIFIED"
+        "status": 302
     },
     "https://www.radios-online.pt/vagos-fm": {
         "name": "Vagos FM",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/vagos-fm",
         "stream": "https://stream-172.zeno.fm/fx5n4m0xkwzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmeDVuNG0weGt3enV2IiwiaG9zdCI6InN0cmVhbS0xNzIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IndBV0w5ajBHUW5DMjltRF8tZVU2dlEiLCJpYXQiOjE3MjUwNjc5NTYsImV4cCI6MTcyNTA2ODAxNn0.AN2V1rjskGNCe2UL4ofBwBATDWjmj7IDVS4PcfC4egg",
-        "status": "UNVERIFIED"
+        "status": 405
     },
     "https://www.radios-online.pt/radio-coracao-do-alentejo": {
         "name": "Radio Coração do Alentejo",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-coracao-do-alentejo",
         "stream": "https://servidor37-3.brlogic.com:7128/live",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-lisboa": {
         "name": "Rádio Lisboa",
@@ -1964,133 +1964,133 @@
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-ribatejo2",
         "stream": "https://radios.justweb.pt/8040/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-regional-chavesmirandela": {
         "name": "RÁDIO REGIONAL CHAVES",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-regional-chavesmirandela",
         "stream": "https://play.radioregional.pt/stream/4/",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-gilao": {
         "name": "Rádio Gilão",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-gilao",
         "stream": "http://centova.radio.com.pt:9440/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-cantinho-de-guifoes": {
         "name": "Radio Cantinho de Guifões",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-cantinho-de-guifoes",
         "stream": "http://s1.stmxp.net:7210/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-palmeira": {
         "name": "Rádio Palmeira",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-palmeira",
         "stream": "https://audio.serv.pt/8018/stream.mp3?_=4",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-clube-penafiel": {
         "name": "Rádio Clube Penafiel",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-clube-penafiel",
         "stream": "http://centova.radio.com.pt:9476/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/douro-fm": {
         "name": "Douro FM",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/douro-fm",
         "stream": "http://centova.radio.com.pt:8437/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-sintonia-da-paixao": {
         "name": "Radio Sintonia Da Paixão",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-sintonia-da-paixao",
         "stream": "https://sbox2.sonybox.es:9088/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-coracoes-de-portugal": {
         "name": "Rádio Corações de Portugal",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-coracoes-de-portugal",
         "stream": "http://sp0.redeaudio.com:8244/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-clube-da-feira": {
         "name": "Sintonia",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-clube-da-feira",
         "stream": "https://sp0.redeaudio.com/9832/stream;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-litoral-oeste": {
         "name": "91FM Rádio",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-litoral-oeste",
         "stream": "https://sp0.redeaudio.com/9878/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-zarco": {
         "name": "Rádio Zarco",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-zarco",
         "stream": "https://audio.serv.pt/8014/stream.mp3?_=4",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/porto-digital": {
         "name": "Porto Digital",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/porto-digital",
         "stream": "https://ssls.stmxp.net:8129/.mp3",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-ondas-cabreira": {
         "name": "Radio Ondas da Cabreira",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-ondas-cabreira",
         "stream": "http://s3.stmxp.net:7012/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-digital-fm": {
         "name": "Rádio Digital FM",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-digital-fm",
         "stream": "http://digitalfm.dynu.com:8000/digitalfm64",
-        "status": "UNVERIFIED"
+        "status": 400
     },
     "https://www.radios-online.pt/radio-voz-da-planicie": {
         "name": "Rádio Voz da Planície",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-voz-da-planicie",
         "stream": "http://centova.radio.com.pt:8441/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-ava": {
         "name": "radioava.global",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-ava",
         "stream": "http://185.118.112.12:8029/stream.mp3",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-douro-nacional": {
         "name": "Rádio Alto Douro",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-douro-nacional",
         "stream": "http://fluoz.zeno.fm/btxha34m1wzuv/source",
-        "status": "UNVERIFIED"
+        "status": 302
     },
     "https://www.radios-online.pt/radio-alcobaca": {
         "name": "Rádio Alcobaça",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-alcobaca",
         "stream": "https://stream.zeno.fm/btxha34m1wzuv",
-        "status": "UNVERIFIED"
+        "status": 302
     },
     "https://www.radios-online.pt/radio-voz-dos-acores": {
         "name": "Radio Voz dos Acores",
@@ -2104,105 +2104,105 @@
         "image": "https://static.mytuner.mobi/media/radios-150px/taDwm9Ch4P.png",
         "url": "https://www.radios-online.pt/radio-ovos-moles",
         "stream": "https://sp0.redeaudio.com/9330/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-campanario": {
         "name": "Rádio Campanário",
         "image": "https://static.mytuner.mobi/media/radios-150px/rGqrnd6Wem.png",
         "url": "https://www.radios-online.pt/radio-campanario",
         "stream": "http://centova.radio.com.pt:8425/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-paixao-fm": {
         "name": "Radio Paixao FM",
         "image": "https://static.mytuner.mobi/media/radios-150px/HtTdAbaY5P.jpg",
         "url": "https://www.radios-online.pt/radio-paixao-fm",
         "stream": "http://sp0.redeaudio.com:9892/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-horizonte": {
         "name": "Rádio Horizonte",
         "image": "https://static.mytuner.mobi/media/radios-150px/VJvdMRCTsg.png",
         "url": "https://www.radios-online.pt/radio-horizonte",
         "stream": "https://horizonte-radiohorizonte.radioca.st/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-felgueiras": {
         "name": "Rádio Felgueiras",
         "image": "https://static.mytuner.mobi/media/radios-150px/vr7zMPNmGL.jpg",
         "url": "https://www.radios-online.pt/radio-felgueiras",
         "stream": "http://centova.radios.pt:8459/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/rbi-radio-de-castelo-branco": {
         "name": "RBI - Rádio de Castelo Branco",
         "image": "https://static.mytuner.mobi/media/radios-150px/AjyLm94ktF.png",
         "url": "https://www.radios-online.pt/rbi-radio-de-castelo-branco",
         "stream": "http://centova.radio.com.pt:9462/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-castrense": {
         "name": "Rádio Castrense",
         "image": "https://static.mytuner.mobi/media/radios-150px/vDQjDBqJ5H.jpg",
         "url": "https://www.radios-online.pt/radio-castrense",
         "stream": "http://centova.radios.pt:8431/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/margens-do-vez": {
         "name": "Margens do Vez",
         "image": "https://static.mytuner.mobi/media/radios-150px/mzvzsunbynnj.png",
         "url": "https://www.radios-online.pt/margens-do-vez",
         "stream": "http://stm9.xcast.com.br:10354/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-sol": {
         "name": "Rádio Sol",
         "image": "https://static.mytuner.mobi/media/radios-150px/104/radio-sol-portugal.7cd008c5.png",
         "url": "https://www.radios-online.pt/radio-sol",
         "stream": "https://audio.serv.pt/8010/stream.mp3?_=4",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/universidade-fm-vila-real": {
         "name": "Universidade FM Vila Real",
         "image": "https://static.mytuner.mobi/media/radios-150px/DTb9tvstQg.png",
         "url": "https://www.radios-online.pt/universidade-fm-vila-real",
         "stream": "http://centova.radio.com.pt:8405/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/oficial-radio-amores-de-emigrantes": {
         "name": "EstacaoMundial",
         "image": "https://static.mytuner.mobi/media/radios-150px/jstwdtqeguca.png",
         "url": "https://www.radios-online.pt/oficial-radio-amores-de-emigrantes",
         "stream": "http://s2.stmxp.net:7060/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-breca": {
         "name": "Rádio Breca",
         "image": "https://static.mytuner.mobi/media/radios-150px/r6xuc6jaamhb.png",
         "url": "https://www.radios-online.pt/radio-breca",
         "stream": "https://servidorradiobreca.com/live",
-        "status": "UNVERIFIED"
+        "status": 400
     },
     "https://www.radios-online.pt/rcl-radio-clube-da-lourinha": {
         "name": "RCL - Rádio Clube da Lourinhã",
         "image": "https://static.mytuner.mobi/media/radios-150px/zak4GLJjBy.jpg",
         "url": "https://www.radios-online.pt/rcl-radio-clube-da-lourinha",
         "stream": "https://sp0.redeaudio.com:10975/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-diana-fm": {
         "name": "Radio Diana FM",
         "image": "https://static.mytuner.mobi/media/radios-150px/gngcsyt6mld9.jpg",
         "url": "https://www.radios-online.pt/radio-diana-fm",
         "stream": "https://servidor37-3.brlogic.com:7128/live",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-elmo": {
         "name": "Rádio Elmo",
         "image": "https://static.mytuner.mobi/media/radios-150px/CB7upnS84z.png",
         "url": "https://www.radios-online.pt/radio-elmo",
         "stream": "http://centova.radio.com.pt:8463/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-europub": {
         "name": "Radio EuroPub",
@@ -2216,203 +2216,203 @@
         "image": "https://static.mytuner.mobi/media/radios-150px/067/radio-simpy-musc.ed3a4bc7.jpg",
         "url": "https://www.radios-online.pt/radio-simpy-musc",
         "stream": "https://srv8.ipstm.net:42304/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-alma-gemea-top-10": {
         "name": "Radio Alma Gemea Top 10",
         "image": "https://static.mytuner.mobi/media/radios-150px/7MJAbSmKMr.png",
         "url": "https://www.radios-online.pt/radio-alma-gemea-top-10",
         "stream": "https://ssl.ndvendas.eu:7300/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-amor-fraterno": {
         "name": "Radio Amor Fraterno",
         "image": "https://static.mytuner.mobi/media/radios-150px/YhSCUUJhPf.png",
         "url": "https://www.radios-online.pt/radio-amor-fraterno",
         "stream": "https://tonyvendas.top:8250/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/informedia-1063": {
         "name": "Informédia 106.3",
         "image": "https://static.mytuner.mobi/media/radios-150px/3cxYBUwKyn.png",
         "url": "https://www.radios-online.pt/informedia-1063",
         "stream": "http://server.zibiz.net:8000/stream1;/stream1",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-carnaval-de-torres-vedras": {
         "name": "Radio Carnaval de Torres Vedras",
         "image": "https://static.mytuner.mobi/media/radios-150px/BAYBfYhpES.png",
         "url": "https://www.radios-online.pt/radio-carnaval-de-torres-vedras",
         "stream": "https://servidor37-3.brlogic.com:7128/live",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/record-fm-santarem": {
         "name": "Record FM Santarém",
         "image": "https://static.mytuner.mobi/media/radios-150px/nwxnaklqjvea.png",
         "url": "https://www.radios-online.pt/record-fm-santarem",
         "stream": "https://radio.radiocarnavaldetorresvedras.com/listen/radiocarnavaldetorresvedras/radiohd.mp3",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-metropolitana-porto": {
         "name": "Rádio Metropolitana Porto",
         "image": "https://static.mytuner.mobi/media/radios-150px/df2h6pkayhdt.png",
         "url": "https://www.radios-online.pt/radio-metropolitana-porto",
         "stream": "https://nl.digitalrm.pt:8018/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-regional-mirandela": {
         "name": "RÁDIO REGIONAL MIRANDELA",
         "image": "https://static.mytuner.mobi/media/radios-150px/ZdsNCg94hK.png",
         "url": "https://www.radios-online.pt/radio-regional-mirandela",
         "stream": "https://stream.zenolive.com/merfn44vwd0uv.aac",
-        "status": "UNVERIFIED"
+        "status": 302
     },
     "https://www.radios-online.pt/radio-maiorca-fm": {
         "name": "Rádio Maiorca FM",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-maiorca-fm",
         "stream": "https://stream-171.zeno.fm/merfn44vwd0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtZXJmbjQ0dndkMHV2IiwiaG9zdCI6InN0cmVhbS0xNzEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjNZdlctSDNyUmxTci1OeURHVHA4aVEiLCJpYXQiOjE3MjUwNjkwNDQsImV4cCI6MTcyNTA2OTEwNH0.6mwWWIbc_zVuY45ClnJctJOs-nQelrj6s_h-aMIJ-dY",
-        "status": "UNVERIFIED"
+        "status": 405
     },
     "https://www.radios-online.pt/hits-98-fm": {
         "name": "Hits 98 FM",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/hits-98-fm",
         "stream": "https://play.radioregional.pt/stream/4/",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/webradioamigosdeportugal": {
         "name": "WebRadioAmigosDePortugal",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/webradioamigosdeportugal",
         "stream": "https://nl.digitalrm.pt:8182/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-douro-nacional-lamego": {
         "name": "Rádio Douro Nacional - Lamego",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-douro-nacional-lamego",
         "stream": "https://stream.zeno.fm/bhcx5yf2198uv",
-        "status": "UNVERIFIED"
+        "status": 302
     },
     "https://www.radios-online.pt/radio-boa-nova": {
         "name": "Radio Boa Nova",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-boa-nova",
         "stream": "https://stream-176.zeno.fm/bhcx5yf2198uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiaGN4NXlmMjE5OHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImlHYzVUQ3JlUkF1N3VSczZOZTY0R3ciLCJpYXQiOjE3MjUwNjkwNTMsImV4cCI6MTcyNTA2OTExM30.60BifOmWfXkuF3TotHsg5EWHT_Op4fJUUa-kij4hHdU",
-        "status": "UNVERIFIED"
+        "status": 405
     },
     "https://www.radios-online.pt/on-the-radio-lisbon": {
         "name": "On the Radio - Lisbon",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/on-the-radio-lisbon",
         "stream": "https://stm1.maystream.top:7006/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-linha-de-verdelhos": {
         "name": "Radio Linha De Verdelhos",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-linha-de-verdelhos",
         "stream": "http://s2.stmxp.net:7144/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-clube-do-dao": {
         "name": "Radio Clube do Dão",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-clube-do-dao",
         "stream": "http://176.9.43.216:8003/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-peninsula": {
         "name": "Rádio Península",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-peninsula",
         "stream": "https://a7.asurahosting.com:7030/radio.mp3",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/lux-radio-alcochete": {
         "name": "Lux Radio Alcochete",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/lux-radio-alcochete",
         "stream": "http://node-16.zeno.fm/ny0mekgs2a0uv",
-        "status": "UNVERIFIED"
+        "status": 302
     },
     "https://www.radios-online.pt/radio-provincia": {
         "name": "Rádio Província",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-provincia",
         "stream": "http://stream-172.zeno.fm/ny0mekgs2a0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJueTBtZWtnczJhMHV2IiwiaG9zdCI6InN0cmVhbS0xNzIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImJIdlVoSUdrUVlhYkRieklwYXBHT1EiLCJpYXQiOjE3MjUwNjkzODQsImV4cCI6MTcyNTA2OTQ0NH0.AZDE_RKiQLDkwietD8lToR4GvumIXi2ZWeKDp9wwwyM",
-        "status": "UNVERIFIED"
+        "status": 405
     },
     "https://www.radios-online.pt/newplayermedia": {
         "name": "PlayerWebRadio",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/newplayermedia",
         "stream": "https://nl.digitalrm.pt:8138/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-montalegre": {
         "name": "Rádio Montalegre",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-montalegre",
         "stream": "http://centova.radio.com.pt:9566/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-mare-alta2": {
         "name": "Radio Mare Alta",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-mare-alta2",
         "stream": "https://stream.zeno.fm/3t7p3czq6tzuv",
-        "status": "UNVERIFIED"
+        "status": 302
     },
     "https://www.radios-online.pt/radio-alpendorada": {
         "name": "Radio Alpendorada",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-alpendorada",
         "stream": "https://stream-172.zeno.fm/3t7p3czq6tzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIzdDdwM2N6cTZ0enV2IiwiaG9zdCI6InN0cmVhbS0xNzIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkNZMEZuZ3ZuUlVhSmV2Wk5JN1ZjYnciLCJpYXQiOjE3MjUwNjk0NjIsImV4cCI6MTcyNTA2OTUyMn0.Ka2mberUTRQJ2WYwjRX2CtaYiMiyCnXP1Qc7PDYIIfg",
-        "status": "UNVERIFIED"
+        "status": 405
     },
     "https://www.radios-online.pt/radio-evangelica-maranata": {
         "name": "Rádio Evangélica Maranata",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-evangelica-maranata",
         "stream": "https://audio.serv.pt/9316/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/esradio-pt": {
         "name": "ESRadio PT",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/esradio-pt",
         "stream": "http://www.esradio.pt:8000/stream4",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-alto-ave": {
         "name": "Rádio Alto Ave",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-alto-ave",
         "stream": "http://centova.radios.pt:8517/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/npc-radio-e-tv": {
         "name": "NPC Rádio e TV",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/npc-radio-e-tv",
         "stream": "https://stm24.xcast.com.br:7000/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-horizonte-algarve": {
         "name": "Rádio Horizonte Algarve",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-horizonte-algarve",
         "stream": "http://centova.radio.com.pt:9458/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/rta-radio-telefonia-do-alentejo": {
         "name": "Diário do Sul",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/rta-radio-telefonia-do-alentejo",
         "stream": "http://centova.radio.com.pt:8561/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-pax": {
         "name": "Rádio Pax",
@@ -2426,77 +2426,77 @@
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-regional-do-centro",
         "stream": "https://nl.digitalrm.pt:8030/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-algarve": {
         "name": "Radio Algarve",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-algarve",
         "stream": "https://stream2.svrdedicado.org:7229/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-luso-brasileira": {
         "name": "Rádio Luso Brasileira",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-luso-brasileira",
         "stream": "https://sonic.servsonic.com/8038/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/pt-radio": {
         "name": "PT Radio",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/pt-radio",
         "stream": "http://c3.radioboss.fm:8106/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-vida-nova": {
         "name": "Rádio Vida Nova",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-vida-nova",
         "stream": "http://centova.radio.com.pt:8061/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/ribatejo-mix": {
         "name": "RadioRibatejo Mix",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/ribatejo-mix",
         "stream": "https://sonic.servsonic.com/8034/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/hits-of-80-and-90": {
         "name": "Hits of 80 and 90",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/hits-of-80-and-90",
-        "stream": "https://streamingv2.shoutcast.com/Hitsof80and90",
-        "status": "UNVERIFIED"
+        "stream": null,
+        "status": 404
     },
     "https://www.radios-online.pt/radio-marinhais": {
         "name": "Rádio Marinhais",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-marinhais",
         "stream": "https://streaming.radionomy.com/JamendoLounge",
-        "status": "UNVERIFIED"
+        "status": 301
     },
     "https://www.radios-online.pt/latina-1050": {
         "name": "Latina 1050",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/latina-1050",
         "stream": "https://streaming.brol.tech/jamendolounge",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-amor-ana-da-noite-2": {
         "name": "Radio Amor Ana da Noite 2",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-amor-ana-da-noite-2",
         "stream": "https://radios.justweb.pt/8026/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-torres-novas-fm": {
         "name": "Rádio Torres Novas FM",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-torres-novas-fm",
         "stream": "http://centova.radio.com.pt:8475/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/rvd-radio2": {
         "name": "RVD RADIO",
@@ -2510,28 +2510,28 @@
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/cidade-radio",
         "stream": "https://stream.zeno.fm/70854g7k6s8uv",
-        "status": "UNVERIFIED"
+        "status": 302
     },
     "https://www.radios-online.pt/best-radio-fm": {
         "name": "Best Rádio FM",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/best-radio-fm",
         "stream": "http://185.32.188.17:8009/live?1465204891723.mp3=",
-        "status": "UNVERIFIED"
+        "status": 400
     },
     "https://www.radios-online.pt/m-r-a": {
         "name": "M_R_A",
         "image": "https://static.mytuner.mobi/media/radios-150px/pbVmzvR6Hm.jpg",
         "url": "https://www.radios-online.pt/m-r-a",
         "stream": "https://stm1.marioaleixo.top:7002/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-vida-fm": {
         "name": "Rádio Vida FM",
         "image": "https://static.mytuner.mobi/media/radios-150px/fvHjGgkM2j.png",
         "url": "https://www.radios-online.pt/radio-vida-fm",
         "stream": "http://centova.radio.com.pt:9482/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-clube-de-caldas": {
         "name": "Rádio Clube de Caldas",
@@ -2552,7 +2552,7 @@
         "image": "https://static.mytuner.mobi/media/radios-150px/abjbr3vnmxuv.jpg",
         "url": "https://www.radios-online.pt/radio-h",
         "stream": "https://sp0.redeaudio.com:10969/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/tla-radio": {
         "name": "TLA Rádio",
@@ -2566,252 +2566,252 @@
         "image": "https://static.mytuner.mobi/media/radios-150px/srkjsax6qjyt.png",
         "url": "https://www.radios-online.pt/radio-miudos",
         "stream": "http://109.71.41.6:8020/live",
-        "status": "UNVERIFIED"
+        "status": 400
     },
     "https://www.radios-online.pt/mega-web-radio": {
         "name": "Mega Web Radio",
         "image": "https://static.mytuner.mobi/media/radios-150px/456/mega-web-radio2.686dcf62.png",
         "url": "https://www.radios-online.pt/mega-web-radio",
         "stream": "https://stream.zeno.fm/cjbji2tunhztv",
-        "status": "UNVERIFIED"
+        "status": 302
     },
     "https://www.radios-online.pt/radio-quantica": {
         "name": "Radio Quantica",
         "image": "https://static.mytuner.mobi/media/radios-150px/x7vru5bpve2h.jpeg",
         "url": "https://www.radios-online.pt/radio-quantica",
         "stream": "http://stream2.radioquantica.com:8000/stream",
-        "status": "UNVERIFIED"
+        "status": 400
     },
     "https://www.radios-online.pt/radio-voz-do-sorraia": {
         "name": "Rádio Voz do Sorraia",
         "image": "https://static.mytuner.mobi/media/radios-150px/YPwjcEFyH2.jpg",
         "url": "https://www.radios-online.pt/radio-voz-do-sorraia",
         "stream": "http://centova.radio.com.pt:8511/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-amparo": {
         "name": "Rádio Amparo",
         "image": "https://static.mytuner.mobi/media/radios-150px/grhvmcwte49h.png",
         "url": "https://www.radios-online.pt/radio-amparo",
         "stream": "https://servidor37-3.brlogic.com:7128/live",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/cybernet-radio": {
         "name": "Cybernet Radio",
         "image": "https://static.mytuner.mobi/media/radios-150px/6JTSXms9dP.jpg",
         "url": "https://www.radios-online.pt/cybernet-radio",
         "stream": "https://stream.zeno.fm/ov89y475n6cuv",
-        "status": "UNVERIFIED"
+        "status": 302
     },
     "https://www.radios-online.pt/radio-agita": {
         "name": "Rádio Agita",
         "image": "https://static.mytuner.mobi/media/radios-150px/g6rcsem5xvzy.png",
         "url": "https://www.radios-online.pt/radio-agita",
         "stream": "https://stream-154.zeno.fm/ov89y475n6cuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJvdjg5eTQ3NW42Y3V2IiwiaG9zdCI6InN0cmVhbS0xNTQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Il9rcUdLaVUzUmIyVUR3UEs3S0JOTnciLCJpYXQiOjE3MjUwNjk1OTUsImV4cCI6MTcyNTA2OTY1NX0.iF74zJpV-Qy48XPUnNXlB5U7n4wP-I2iLfZoMhfOeP8",
-        "status": "UNVERIFIED"
+        "status": 405
     },
     "https://www.radios-online.pt/invicta-mix": {
         "name": "Invicta Mix",
         "image": "https://static.mytuner.mobi/media/radios-150px/du4g2ze3cxd7.png",
         "url": "https://www.radios-online.pt/invicta-mix",
         "stream": "http://emissao.invictamix.pt:8093/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-svn": {
         "name": "Rádio SVN",
         "image": "https://static.mytuner.mobi/media/radios-150px/G5EW3bJhnJ.jpg",
         "url": "https://www.radios-online.pt/radio-svn",
         "stream": "https://node-04.zeno.fm/nrd8kqyhr7zuv?rj-tok=AAABev1_NsAAAynOFMLSlhJqVg&rj-ttl=5",
-        "status": "UNVERIFIED"
+        "status": 302
     },
     "https://www.radios-online.pt/radio-clube-de-meda": {
         "name": "Rádio Clube de Mêda",
         "image": "https://static.mytuner.mobi/media/radios-150px/YU5CSEBr3X.png",
         "url": "https://www.radios-online.pt/radio-clube-de-meda",
         "stream": "http://centova.radios.pt:8493/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/deja-vu-circuit": {
         "name": "Déjà Vú Circuit",
         "image": "https://static.mytuner.mobi/media/radios-150px/2Z5gTdnwpE.png",
         "url": "https://www.radios-online.pt/deja-vu-circuit",
         "stream": "https://stream.zeno.fm/wojvmwwnkmluv.m3u",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-vone": {
         "name": "Radio Vone",
         "image": "https://static.mytuner.mobi/media/radios-150px/2YQPpwdvS3.png",
         "url": "https://www.radios-online.pt/radio-vone",
         "stream": "http://noasrv.caster.fm:10028/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-escuro": {
         "name": "Rádio Escuro",
         "image": "https://static.mytuner.mobi/media/radios-150px/MDhbDbtcxx.jpg",
         "url": "https://www.radios-online.pt/radio-escuro",
         "stream": "https://nl.digitalrm.pt:8116/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-mega-montijo": {
         "name": "Rádio Mega Montijo",
         "image": "https://static.mytuner.mobi/media/radios-150px/tflkph9epgva.jpg",
         "url": "https://www.radios-online.pt/radio-mega-montijo",
         "stream": "http://sv13.hdradios.net:7916/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-utopia": {
         "name": "Radio Utopia",
         "image": "https://static.mytuner.mobi/media/radios-150px/647/radio-utopia.fb95dd75.png",
         "url": "https://www.radios-online.pt/radio-utopia",
         "stream": "https://radios.yanapak.org/RadioUtopia",
-        "status": "UNVERIFIED"
+        "status": 400
     },
     "https://www.radios-online.pt/radio-estrela": {
         "name": "Rádio Estrela",
         "image": "https://static.mytuner.mobi/media/radios-150px/nYqeGRNqsB.jpg",
         "url": "https://www.radios-online.pt/radio-estrela",
         "stream": "https://stream.zeno.fm/fcybbv5euv8uv",
-        "status": "UNVERIFIED"
+        "status": 302
     },
     "https://www.radios-online.pt/radio-voz-da-raia": {
         "name": "Rádio Voz da Raia",
         "image": "https://static.mytuner.mobi/media/radios-150px/7tSQFbsdyW.png",
         "url": "https://www.radios-online.pt/radio-voz-da-raia",
         "stream": "http://centova.radio.com.pt:8557/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/lifestyle-radio": {
         "name": "Lifestyle Radio Internacional",
         "image": "https://static.mytuner.mobi/media/radios-150px/FjbSykbJSa.png",
         "url": "https://www.radios-online.pt/lifestyle-radio",
         "stream": "https://servidor23-2.brlogic.com:7470/live?source=website",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-linha-horizonte": {
         "name": "Radio Linha Horizonte",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-linha-horizonte",
         "stream": "https://s10.w3bserver.com/listen/linha_do_horizonte/radio.mp3",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-ondas-do-pego-longo": {
         "name": "Radio Ondas do Pego Longo",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-ondas-do-pego-longo",
         "stream": "https://stream.zeno.fm/vqxak5zxpqzuv",
-        "status": "UNVERIFIED"
+        "status": 302
     },
     "https://www.radios-online.pt/radio-t-s-producoes": {
         "name": "Podcast Moderna Produções",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-t-s-producoes",
         "stream": "https://stream-175.zeno.fm/vqxak5zxpqzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2cXhhazV6eHBxenV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Im9LVXNSTjVnUnVDRkJ5cDdxdGlDV1EiLCJpYXQiOjE3MjUwNjk2NTYsImV4cCI6MTcyNTA2OTcxNn0.mPXa-2NWZf0Pgbm3anPDuVU4Pytk2QIvAGVFP_Y_mJw",
-        "status": "UNVERIFIED"
+        "status": 405
     },
     "https://www.radios-online.pt/radio-positiva": {
         "name": "Rádio Positiva",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-positiva",
         "stream": "https://stream.zeno.fm/bgcwgd37yf9uv",
-        "status": "UNVERIFIED"
+        "status": 302
     },
     "https://www.radios-online.pt/radio-nova-paivense-fm": {
         "name": "Rádio Nova Paivense FM",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-nova-paivense-fm",
         "stream": "http://paivense.no-ip.info:8080/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/vfm-946": {
         "name": "VFM",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/vfm-946",
         "stream": "http://cast.redewt.net:9141/live",
-        "status": "UNVERIFIED"
+        "status": 400
     },
     "https://www.radios-online.pt/rcp-live-radio-clube-da-pampilhosa": {
         "name": "RCP FM - Rádio Clube da Pampilhosa",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/rcp-live-radio-clube-da-pampilhosa",
         "stream": "https://sp0.redeaudio.com/9802/stream",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-atlantico-acores": {
         "name": "Radio Atlântico",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-atlantico-acores",
         "stream": "https://stream.zeno.fm/a2z34g37wp8uv",
-        "status": "UNVERIFIED"
+        "status": 302
     },
     "https://www.radios-online.pt/radiobaladamusical": {
         "name": "RadioBaladaMusical",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radiobaladamusical",
         "stream": "https://stream-172.zeno.fm/a2z34g37wp8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJhMnozNGczN3dwOHV2IiwiaG9zdCI6InN0cmVhbS0xNzIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IllBdDJBMGpyUVUyMXUyaVFkLTJWVHciLCJpYXQiOjE3MjUwNzAxMTcsImV4cCI6MTcyNTA3MDE3N30.nAN41JbdcpNZgP1LTuwSZbcFrfijfpgjX5p8ZpkwNyw",
-        "status": "UNVERIFIED"
+        "status": 405
     },
     "https://www.radios-online.pt/rpg-radio-portugal-gaming": {
         "name": "RPG - Rádio Portugal Gaming",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/rpg-radio-portugal-gaming",
         "stream": "https://ssl.stmxp.net:7224/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/rcg-radio-clube-de-grandola": {
         "name": "RCG - Rádio Clube de Grândola",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/rcg-radio-clube-de-grandola",
         "stream": "http://centova.radios.pt:9474/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-movimento": {
         "name": "Radio Movimento",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-movimento",
         "stream": "http://ca5.rcast.net:8048/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-antena-4": {
         "name": "Radio Antena 4",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-antena-4",
         "stream": "https://stream.zeno.fm/rdq0ntdjbj2uv",
-        "status": "UNVERIFIED"
+        "status": 302
     },
     "https://www.radios-online.pt/rve-radio-voz-de-esmoriz": {
         "name": "A Voz de Esmoriz",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/rve-radio-voz-de-esmoriz",
         "stream": "https://stream-171.zeno.fm/rdq0ntdjbj2uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyZHEwbnRkamJqMnV2IiwiaG9zdCI6InN0cmVhbS0xNzEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImlhR1pRVUVoUTRXODlha0RmSFV0bnciLCJpYXQiOjE3MjUwNzAxMzYsImV4cCI6MTcyNTA3MDE5Nn0.708KmFBqcYpFCsB-s-SWnujSWy7nQ5UTlpmcf5K5WW0",
-        "status": "UNVERIFIED"
+        "status": 405
     },
     "https://www.radios-online.pt/wrpo-web-radio-portugal-online": {
         "name": "WRPO - Web Rádio Portugal Online",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/wrpo-web-radio-portugal-online",
         "stream": "https://cast.redewt.net:9820/live",
-        "status": "UNVERIFIED"
+        "status": 400
     },
     "https://www.radios-online.pt/alcochete-2890": {
         "name": "Alcochete 2890",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/alcochete-2890",
         "stream": "https://stm12.voxhd.com.br:9114/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/r24-radio-24": {
         "name": "R24 - Rádio | 24",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/r24-radio-24",
         "stream": "http://r24.zibiz.net:8000/stream1",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/singa-fm": {
         "name": "Singa FM",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/singa-fm",
         "stream": "http://centova.radio.com.pt:8487/;",
-        "status": "UNVERIFIED"
+        "status": 200
     },
     "https://www.radios-online.pt/radio-jim-online": {
         "name": "Rádio JIM Online",
@@ -3286,7 +3286,7 @@
         "name": "Radio Esfera 4.0",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-esfera-40",
-        "stream": "https://s05.w3bserver.com:20001/;",
+        "stream": "https://s05.w3bserver.com:20001/stream?type=http&nocache=141276",
         "status": "UNVERIFIED"
     },
     "https://www.radios-online.pt/engenharia-radio": {
