@@ -3671,14 +3671,14 @@
         "name": "Rádio Vale do Minho",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-vale-do-minho",
-        "stream": "http://centova.radios.pt:9434/",
+        "stream": null,
         "status": "UNVERIFIED"
     },
     "https://www.radios-online.pt/radio-cardal": {
         "name": "Radio Cardal",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-cardal",
-        "stream": "http://centova.radios.pt:9434/index.html",
+        "stream": null,
         "status": "UNVERIFIED"
     },
     "https://www.radios-online.pt/radio-placard": {
@@ -6421,7 +6421,7 @@
         "name": "Rádio Vale do Minho",
         "image": "https://cdn.mytuner.mobi/static/ctr/images/radio-default.jpg",
         "url": "https://www.radios-online.pt/radio-vale-do-minho",
-        "stream": "http://centova.radios.pt:9434/",
+        "stream": null,
         "status": "UNVERIFIED"
     },
     "http://e.radios-online.pt/embed/radio-placard-416400": {
