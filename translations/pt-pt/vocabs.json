@@ -1,16 +1,16 @@
 {
     "radio.voc": [
-        "radio",
-        "radio internet",
-        "web radio"
+        "rádio",
+        "rádio internet",
+        "web rádio"
     ],
     "radiotuga.voc": [
-        "radio tuga",
-        "radio portuguesa",
-        "radio de portugal"
+        "rádio tuga",
+        "rádio portuguesa",
+        "rádio de portugal"
     ],
     "radiotuga_skill.voc": [
-        "radio (tuga|portuguesa)",
-        "radio (tuga|portuguesa) skill"
+        "rádio (tuga|portuguesa)",
+        "rádio (tuga|portuguesa) skill"
     ]
 }
